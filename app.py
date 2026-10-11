@@ -115,4 +115,4 @@ plt.close(fig)
 
 # 8. Thông tin người thực hiện
 st.divider()
-st.caption("Người thực hiện: Họ và tên - MSSV")
+st.caption("Người thực hiện: Hồ Nhất Huy - 054208001202")
